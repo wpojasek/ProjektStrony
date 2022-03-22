@@ -51,14 +51,14 @@ h1 {
 
 
 button {
-    width: 140px;
+    width: 200px;
     height: 45px;
     font-size: 23px;
     cursor: pointer;
     border: none;
     outline: none;
     background: transparent;
-    color: #b62b28;
+    color: #fdb716;
     font-family: Oswald;
     font-weight: 700;
     position: relative;
@@ -89,3 +89,30 @@ button {
    button:active:before {
     background: #b9b9b9;
    }
+
+
+.link{
+    color: #fdb716;
+
+}
+
+
+.position{
+   right: 500px;
+   margin: 0;
+}
+
+
+.position2{
+    right: 150px;
+    margin: 0;
+}
+
+.position3{
+    left: 700px;
+    margin: 0;
+}
+
+.position4{
+    right: 10px;
+}
